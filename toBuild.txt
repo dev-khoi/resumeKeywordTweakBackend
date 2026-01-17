@@ -1,0 +1,6 @@
+epic1: ai feature that break downs the html into suitable CategoryInfo
+accept http request getting that raw string html and ai with system prompt parse it into the right categorization
+
+epic2: auth system, implement auth system for both front and backend
+
+epic3: create comparing resume feature with aws
